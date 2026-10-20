@@ -876,7 +876,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
 - [IceShore](https://iceshore.ai/) `https://mcp.iceshore.ai/mcp`
   [![IceShore MCP connector](https://glama.ai/mcp/connectors/ai.iceshore/iceshore/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iceshore/iceshore)
-  🔐 - Make your AI better at system maintenance. Prompts your AI to organize use cases behind each system.
+  🔓 - Make your AI better at system maintenance. Prompts your AI to organize use cases behind each system.
 - [Iminify](https://www.iminify.com/ai-agents) `https://www.iminify.com/mcp`
   [![Iminify MCP connector](https://glama.ai/mcp/connectors/com.iminify/iminify/badges/score.svg)](https://glama.ai/mcp/connectors/com.iminify/iminify)
   🔐 - Compress, convert and resize images, and scan web pages for every image they load.
